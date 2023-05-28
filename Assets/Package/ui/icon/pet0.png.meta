@@ -1,0 +1,2312 @@
+fileFormatVersion: 2
+guid: 69e37f332e4c33c40bb43ce4c1be7464
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3326348790540937494
+    second: Icon_Card_M_00001_puren_01
+  - first:
+      213: -358202134984433383
+    second: Icon_Card_M_00001_puren_02
+  - first:
+      213: -4954764811618199197
+    second: Icon_Card_M_10004_dragon3_01
+  - first:
+      213: 2836605733208228918
+    second: Icon_Card_M_10004_dragon3_02
+  - first:
+      213: 6526386467765805427
+    second: Icon_Card_M_10013_turtle_01
+  - first:
+      213: -1122457278888307770
+    second: Icon_Card_M_10013_turtle_02
+  - first:
+      213: -6434301845084076060
+    second: Icon_Card_M_10013_turtle_03
+  - first:
+      213: 2941098690307419311
+    second: Icon_Card_M_10013_turtle_04
+  - first:
+      213: 5458305384592748314
+    second: Icon_Card_M_10015_fish_01
+  - first:
+      213: -6395569386003359774
+    second: Icon_Card_M_10015_fish_02
+  - first:
+      213: -2298089228152578507
+    second: Icon_Card_M_10016_long01_01
+  - first:
+      213: 3173671129403457595
+    second: Icon_Card_M_10016_long01_02
+  - first:
+      213: -1769877537726561343
+    second: Icon_Card_M_10018_dragon_01
+  - first:
+      213: 5737356863115171953
+    second: Icon_Card_M_10018_dragon_02
+  - first:
+      213: -313304122654216066
+    second: Icon_Card_M_10018_dragon_03
+  - first:
+      213: 7590690422584614433
+    second: Icon_Card_M_10024_batbajie_01
+  - first:
+      213: -8401270362281464991
+    second: Icon_Card_M_10024_batbajie_02
+  - first:
+      213: 2127024795290035190
+    second: Icon_Card_M_10029_knn_01
+  - first:
+      213: -2887971756287064314
+    second: Icon_Card_M_10029_knn_02
+  - first:
+      213: 6566576807302272465
+    second: Icon_Card_M_10029_knn_03
+  - first:
+      213: 8351071158992499830
+    second: Icon_Card_M_10050_dragon5_01
+  - first:
+      213: -2409456802238818500
+    second: Icon_Card_M_10050_dragon5_02
+  - first:
+      213: -6399750348627411403
+    second: Icon_Card_M_10074_robot07_01
+  - first:
+      213: -8893536057981889758
+    second: Icon_Card_M_10074_robot07_02
+  - first:
+      213: -2032128304154068495
+    second: Icon_Card_M_10074_robot07_03
+  - first:
+      213: 6142084834695472001
+    second: Icon_Card_M_10079_robot06_01
+  - first:
+      213: 8552634367427005280
+    second: Icon_Card_M_10079_robot06_02
+  - first:
+      213: 886079258722548959
+    second: Icon_Card_M_10080_octopus_01
+  - first:
+      213: -6227725817696266925
+    second: Icon_Card_M_10080_octopus_02
+  - first:
+      213: -9161103367443178189
+    second: Icon_Card_M_10081_ladybug_01
+  - first:
+      213: 1207751588829274373
+    second: Icon_Card_M_10081_ladybug_02
+  - first:
+      213: -950271154183925643
+    second: Icon_Card_M_10082_bigladybug_01
+  - first:
+      213: -6027172157411494162
+    second: Icon_Card_M_10082_bigladybug_02
+  - first:
+      213: 3111895090175121935
+    second: Icon_Card_M_10083_wasp_01
+  - first:
+      213: 2021376629104580033
+    second: Icon_Card_M_10083_wasp_02
+  - first:
+      213: 4362862383249801223
+    second: Icon_Card_M_10084_babydragon_01
+  - first:
+      213: -2610798946372294602
+    second: Icon_Card_M_10085_Cannibal_01
+  - first:
+      213: 415182544086877941
+    second: Icon_Card_M_10085_Cannibal_02
+  - first:
+      213: 7056367629358873528
+    second: Icon_Card_M_10085_Cannibal_03
+  - first:
+      213: 298646441831009939
+    second: Icon_Card_M_10085_Cannibal_04
+  - first:
+      213: 6287322742747680502
+    second: Icon_Card_M_10085_Cannibal_05
+  - first:
+      213: 7608966202021078454
+    second: Icon_Card_M_10086_crab_01
+  - first:
+      213: 3213268983518074485
+    second: Icon_Card_M_10086_crab_02
+  - first:
+      213: -1792967414909820819
+    second: Icon_Card_M_10086_crab_03
+  - first:
+      213: -3927379637616674961
+    second: Icon_M_00001_puren_01
+  - first:
+      213: -57580295057757022
+    second: Icon_M_00001_puren_02
+  - first:
+      213: -2570329955770174500
+    second: Icon_M_10004_dragon3_01
+  - first:
+      213: -1561947537977711854
+    second: Icon_M_10004_dragon3_02
+  - first:
+      213: 3113794753731448806
+    second: Icon_M_10013_turtle_01
+  - first:
+      213: -8887506929305304406
+    second: Icon_M_10013_turtle_02
+  - first:
+      213: 1776795618320354466
+    second: Icon_M_10013_turtle_03
+  - first:
+      213: -2921426275801028475
+    second: Icon_M_10013_turtle_04
+  - first:
+      213: -4800792093731082651
+    second: Icon_M_10015_fish_01
+  - first:
+      213: 8297224396975310864
+    second: Icon_M_10015_fish_02
+  - first:
+      213: 1489775855187833877
+    second: Icon_M_10016_long01_01
+  - first:
+      213: 7569303059945460902
+    second: Icon_M_10016_long01_02
+  - first:
+      213: -3920076180333308765
+    second: Icon_M_10018_dragon_01
+  - first:
+      213: 6918903735796800154
+    second: Icon_M_10018_dragon_02
+  - first:
+      213: 5518941101433870004
+    second: Icon_M_10018_dragon_03
+  - first:
+      213: -3187532450144885632
+    second: Icon_M_10024_batbajie_01
+  - first:
+      213: -9189205848663695417
+    second: Icon_M_10024_batbajie_02
+  - first:
+      213: -521161804980193916
+    second: Icon_M_10029_knn_01
+  - first:
+      213: -2723953759250336143
+    second: Icon_M_10029_knn_02
+  - first:
+      213: -3199656343398484750
+    second: Icon_M_10029_knn_03
+  - first:
+      213: 7797262921064684437
+    second: Icon_M_10050_dragon5_01
+  - first:
+      213: 4192548501514305810
+    second: Icon_M_10050_dragon5_02
+  - first:
+      213: 6712781766948687052
+    second: Icon_M_10074_robot07_01
+  - first:
+      213: -4673235746360997549
+    second: Icon_M_10074_robot07_02
+  - first:
+      213: -5480367335899400686
+    second: Icon_M_10074_robot07_03
+  - first:
+      213: 8426581548013733223
+    second: Icon_M_10079_robot06_01
+  - first:
+      213: -1500194943586490098
+    second: Icon_M_10079_robot06_02
+  - first:
+      213: 6932550060435632541
+    second: Icon_M_10080_octopus_01
+  - first:
+      213: 7029662744382781085
+    second: Icon_M_10080_octopus_02
+  - first:
+      213: -9111816130746034996
+    second: Icon_M_10081_ladybug_01
+  - first:
+      213: -4004382222860883559
+    second: Icon_M_10081_ladybug_02
+  - first:
+      213: 5659118584592519442
+    second: Icon_M_10082_bigladybug_01
+  - first:
+      213: 4927477788231671455
+    second: Icon_M_10082_bigladybug_02
+  - first:
+      213: -1583735082832267781
+    second: Icon_M_10083_wasp_01
+  - first:
+      213: 58120029826107291
+    second: Icon_M_10083_wasp_02
+  - first:
+      213: -771194779348278573
+    second: Icon_M_10084_babydragon_01
+  - first:
+      213: -3954574773308551124
+    second: Icon_M_10085_Cannibal_01
+  - first:
+      213: -7713282885957639057
+    second: Icon_M_10085_Cannibal_02
+  - first:
+      213: -1640651316256793981
+    second: Icon_M_10085_Cannibal_03
+  - first:
+      213: -3209228466984784819
+    second: Icon_M_10085_Cannibal_04
+  - first:
+      213: -3390924881082016309
+    second: Icon_M_10085_Cannibal_05
+  - first:
+      213: 7760736533302781497
+    second: Icon_M_10086_crab_01
+  - first:
+      213: -4062338695374384442
+    second: Icon_M_10086_crab_02
+  - first:
+      213: -3770759901018656683
+    second: Icon_M_10086_crab_03
+  - first:
+      213: -908598531890401640
+    second: Tex_Icon_pethuobi_01
+  - first:
+      213: 2356225999222414252
+    second: Tex_NoPet
+  - first:
+      213: -8598434124652185392
+    second: Tex_UI_pet_icon_jiangli
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Card_M_00001_puren_01
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1364
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d1c4166f66d1d0800000000000000
+      internalID: -3326348790540937494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_00001_puren_02
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 604
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911677a5e09670bf0800000000000000
+      internalID: -358202134984433383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10004_dragon3_01
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1202
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36954e1c7a32d3bb0800000000000000
+      internalID: -4954764811618199197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10004_dragon3_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1798
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63486b7a2e5ad5720800000000000000
+      internalID: 2836605733208228918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10013_turtle_01
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1180
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371e8160ae1629a50800000000000000
+      internalID: 6526386467765805427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10013_turtle_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39f484d0b3c60f0800000000000000
+      internalID: -1122457278888307770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10013_turtle_03
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78f12ff84c4b6a0800000000000000
+      internalID: -6434301845084076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10013_turtle_04
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face32d1da1e0d820800000000000000
+      internalID: 2941098690307419311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10015_fish_01
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa044f3dbcfbb40800000000000000
+      internalID: 5458305384592748314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10015_fish_02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1798
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e718e2578f5e37a0800000000000000
+      internalID: -6395569386003359774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10016_long01_01
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1018
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e50d5d50c8b10e0800000000000000
+      internalID: -2298089228152578507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10016_long01_02
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1798
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30810ec3152b0c20800000000000000
+      internalID: 3173671129403457595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10018_dragon_01
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 996
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c38dd3b1c12077e0800000000000000
+      internalID: -1769877537726561343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10018_dragon_02
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 874
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17811af4baf2f9f40800000000000000
+      internalID: 5737356863115171953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10018_dragon_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 930
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b7867f8be6abf0800000000000000
+      internalID: -313304122654216066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10024_batbajie_01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 930
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e9d1ed8bc875960800000000000000
+      internalID: 7590690422584614433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10024_batbajie_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1798
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b223a0e11b86b80800000000000000
+      internalID: -8401270362281464991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10029_knn_01
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 930
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e5b728c5b48d10800000000000000
+      internalID: 2127024795290035190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10029_knn_02
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 930
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60706212dfcdbe7d0800000000000000
+      internalID: -2887971756287064314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10029_knn_03
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d51295a0da212b50800000000000000
+      internalID: 6566576807302272465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10050_dragon5_01
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 834
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f1c529f6f4e370800000000000000
+      internalID: 8351071158992499830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10050_dragon5_02
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1798
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3718e0edc3ef8ed0800000000000000
+      internalID: -2409456802238818500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10074_robot07_01
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 812
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e71ea17f48f27a0800000000000000
+      internalID: -6399750348627411403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10074_robot07_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1548
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2239cd24310d39480800000000000000
+      internalID: -8893536057981889758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10074_robot07_03
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1548
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f931e4f21e6cc3e0800000000000000
+      internalID: -2032128304154068495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10079_robot06_01
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 690
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18366507d911d3550800000000000000
+      internalID: 6142084834695472001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10079_robot06_02
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 996
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bc844b4af01b670800000000000000
+      internalID: 8552634367427005280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10080_octopus_01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcbff2246cfb4c00800000000000000
+      internalID: 886079258722548959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10080_octopus_02
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1548
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555fad5d5ca299a0800000000000000
+      internalID: -6227725817696266925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10081_ladybug_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 746
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1ae066093dd080800000000000000
+      internalID: -9161103367443178189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10081_ladybug_02
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 834
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501251dcbabc2c010800000000000000
+      internalID: 1207751588829274373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10082_bigladybug_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1114
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57011968b65ffc2f0800000000000000
+      internalID: -950271154183925643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10082_bigladybug_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1548
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6fc5d2bde2b5ca0800000000000000
+      internalID: -6027172157411494162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10083_wasp_01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 746
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9b24d81caf2b20800000000000000
+      internalID: 3111895090175121935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10083_wasp_02
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1548
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c51e0f955f5d0c10800000000000000
+      internalID: 2021376629104580033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10084_babydragon_01
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 746
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700c48dd8300c8c30800000000000000
+      internalID: 4362862383249801223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10085_Cannibal_01
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 746
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e38dd03494cbd0800000000000000
+      internalID: -2610798946372294602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10085_Cannibal_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1298
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6cd39f25603c500800000000000000
+      internalID: 415182544086877941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10085_Cannibal_03
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1298
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb308009f04de160800000000000000
+      internalID: 7056367629358873528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10085_Cannibal_04
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 650
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e85c64b51052400800000000000000
+      internalID: 298646441831009939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10085_Cannibal_05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 746
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fec5bd09be014750800000000000000
+      internalID: 6287322742747680502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10086_crab_01
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 930
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56b6b527a789960800000000000000
+      internalID: 7608966202021078454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10086_crab_02
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1298
+        width: 196
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576106aad13d79c20800000000000000
+      internalID: 3213268983518074485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Card_M_10086_crab_03
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 874
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60237cb2a91e17e0800000000000000
+      internalID: -1792967414909820819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_00001_puren_01
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 290
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6771c917052f79c0800000000000000
+      internalID: -3927379637616674961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_00001_puren_02
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 444
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac2507d60f633ff0800000000000000
+      internalID: -57580295057757022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10004_dragon3_01
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 83
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f5cef58a545cd0800000000000000
+      internalID: -2570329955770174500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10004_dragon3_02
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 200
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ea016df8d25ae0800000000000000
+      internalID: -1561947537977711854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10013_turtle_01
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 338
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef43a7b4db663b20800000000000000
+      internalID: 3113794753731448806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10013_turtle_02
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 173
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24feb298b39a480800000000000000
+      internalID: -8887506929305304406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10013_turtle_03
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 97
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac8474733278a810800000000000000
+      internalID: 1776795618320354466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10013_turtle_04
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 401
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5882361d7420577d0800000000000000
+      internalID: -2921426275801028475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10015_fish_01
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1183
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea7a4c609206db0800000000000000
+      internalID: -4800792093731082651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10015_fish_02
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 214
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180b63e0a9a52370800000000000000
+      internalID: 8297224396975310864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10016_long01_01
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514bc634f3fbca410800000000000000
+      internalID: 1489775855187833877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10016_long01_02
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 307
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4935577019b0960800000000000000
+      internalID: 7569303059945460902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10018_dragon_01
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 504
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a453c2cb771999c0800000000000000
+      internalID: -3920076180333308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10018_dragon_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a9a4f2a42e40060800000000000000
+      internalID: 6918903735796800154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10018_dragon_03
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 337
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6d44fe0b7379c40800000000000000
+      internalID: 5518941101433870004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10024_batbajie_01
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 564
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846517ff1c93c3d0800000000000000
+      internalID: -3187532450144885632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10024_batbajie_02
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 332
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf557697f1697080800000000000000
+      internalID: -9189205848663695417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10029_knn_01
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1308
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48577af791674c8f0800000000000000
+      internalID: -521161804980193916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10029_knn_02
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 531
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1763b43fc72923ad0800000000000000
+      internalID: -2723953759250336143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10029_knn_03
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1058
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4786812898893d0800000000000000
+      internalID: -3199656343398484750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10050_dragon5_01
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 228
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9266a051753c60800000000000000
+      internalID: 7797262921064684437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10050_dragon5_02
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 445
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114b5826acee2a30800000000000000
+      internalID: 4192548501514305810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10074_robot07_01
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 421
+        width: 123
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc02b18377982d50800000000000000
+      internalID: 6712781766948687052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10074_robot07_02
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 214
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ce7a39d4552fb0800000000000000
+      internalID: -4673235746360997549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10074_robot07_03
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 401
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ff09b1f2d1f3b0800000000000000
+      internalID: -5480367335899400686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10079_robot06_01
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 444
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654830a54b31f470800000000000000
+      internalID: 8426581548013733223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10079_robot06_02
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 226
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a0bda5ac3e2be0800000000000000
+      internalID: -1500194943586490098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10080_octopus_01
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 112
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f0ebbc8d553060800000000000000
+      internalID: 6932550060435632541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10080_octopus_02
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 91
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96bbb175016e8160800000000000000
+      internalID: 7029662744382781085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10081_ladybug_01
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 506
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4553c61835c8180800000000000000
+      internalID: -9111816130746034996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10081_ladybug_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 115
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ec7d95939d68c0800000000000000
+      internalID: -4004382222860883559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10082_bigladybug_01
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 93
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d2709e5a398e40800000000000000
+      internalID: 5659118584592519442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10082_bigladybug_02
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 687
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1d2601fae16440800000000000000
+      internalID: 4927477788231671455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10083_wasp_01
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1423
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf575794551750ae0800000000000000
+      internalID: -1583735082832267781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10083_wasp_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97ce14fbdb7ec000800000000000000
+      internalID: 58120029826107291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10084_babydragon_01
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 625
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d26f442f6a2c45f0800000000000000
+      internalID: -771194779348278573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10085_Cannibal_01
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 625
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20193722378e19c0800000000000000
+      internalID: -3954574773308551124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10085_Cannibal_02
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 265
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64256af41ae4f490800000000000000
+      internalID: -7713282885957639057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10085_Cannibal_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a9c36025c3b39e0800000000000000
+      internalID: -1640651316256793981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10085_Cannibal_04
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 289
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cec4666b78673d0800000000000000
+      internalID: -3209228466984784819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10085_Cannibal_05
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 506
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd921b59c301f0d0800000000000000
+      internalID: -3390924881082016309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10086_crab_01
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 565
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a8e642cca3bb60800000000000000
+      internalID: 7760736533302781497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10086_crab_02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 621
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2d2e0da7caf97c0800000000000000
+      internalID: -4062338695374384442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_M_10086_crab_03
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 621
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fe7e29d19babc0800000000000000
+      internalID: -3770759901018656683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tex_Icon_pethuobi_01
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 645
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e2b3ff2720463f0800000000000000
+      internalID: -908598531890401640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tex_NoPet
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1386
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab113eff0ff2b020800000000000000
+      internalID: 2356225999222414252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tex_UI_pet_icon_jiangli
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 570
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8728758b93ca880800000000000000
+      internalID: -8598434124652185392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ui/icon/pet0
+  assetBundleVariant: unity3d

@@ -1,0 +1,71 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: common0.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:e702fcda2c30147ca5ab8748eab4a2fa:6f52b0fc5850ff1419e296bb6ae2d215:3383d4e45ed3f906345dcfb3b2db824a$
+#
+
+CommonHP;2039;2042;4;4;0.5;0.5
+Common_AvatarBg;2026;1744;15;15;0.5;0.5
+Common_AvatarBgNothin;896;1176;112;112;0.5;0.5
+Common_BLOCK;872;1028;109;32;0.5;0.5
+Common_BagButton;670;1856;354;130;0.5;0.5
+Common_BagButtonSelect;670;1724;354;130;0.5;0.5
+Common_BigLogo;1036;1521;916;525;0.5;0.5
+Common_ButtonBlue;218;935;214;74;0.5;0.5
+Common_ButtonRed;218;859;214;74;0.5;0.5
+Common_CRITICAL;1010;1157;138;32;0.5;0.5
+Common_Coin;1954;1971;83;75;0.5;0.5
+Common_Diamond;1954;1779;76;79;0.5;0.5
+Common_GeneralPopup;1520;1185;428;334;0.5;0.5
+Common_GeneralPopupLight;1020;1507;498;12;0.5;0.5
+Common_GeneralPopupTitle 1;2;1146;417;53;0.5;0.5
+Common_GeneralPopupTitle;2;1988;1032;58;0.5;0.5
+Common_GeneralTips;2;1699;666;287;0.5;0.5
+Common_GrayButton;2;847;214;74;0.5;0.5
+Common_IconAdd;1954;1707;70;70;0.5;0.5
+Common_IconIntelligence;972;1535;46;46;0.5;0.5
+Common_IconLife;972;1487;46;46;0.5;0.5
+Common_IconPower;972;1394;44;44;0.5;0.5
+Common_IconSkill;1950;1471;44;44;0.5;0.5
+Common_IconSpeed;1996;1468;44;44;0.5;0.5
+Common_ItemFrame00(1);502;1531;166;166;0.5;0.5
+Common_ItemFrame00;1226;1064;142;142;0.5;0.5
+Common_ItemFrameMask;2026;1761;16;16;0.5;0.5
+Common_LevelDetailButton;2;923;214;86;0.5;0.5
+Common_Lock;972;1583;46;50;0.5;0.5
+Common_LocomotivityIcon;1954;1517;53;53;0.5;0.5
+Common_LvBg;1120;1102;98;53;0.5;0.5
+Common_MISS;1954;1860;79;32;0.5;0.5
+Common_N;665;1205;229;133;0.5;0.5
+Common_NFrame;892;1062;112;112;0.5;0.5
+Common_NotClickable;1010;1191;214;74;0.5;0.5
+Common_PhysicalStrength;665;1340;248;78;0.5;0.5
+Common_PhysicalStrengthIcon;1954;1572;60;69;0.5;0.5
+Common_PointIcon;2016;1611;30;30;0.5;0.5
+Common_R;661;1070;229;133;0.5;0.5
+Common_RFrame;1006;1043;112;112;0.5;0.5
+Common_ResourcesBg;2009;1514;37;56;0.5;0.5
+Common_SR;2;1011;229;133;0.5;0.5
+Common_SSR;233;1011;229;133;0.5;0.5
+Common_SeclectFrame;915;1290;98;102;0.5;0.5
+Common_SelectItemFrame;1954;1894;82;75;0.5;0.5
+Common_SliderSynthesis;1226;1208;154;26;0.5;0.5
+Common_SliderSynthesisFrame;1226;1236;157;29;0.5;0.5
+Common_SrFrame;644;956;112;112;0.5;0.5
+Common_SsrFrame;758;956;112;112;0.5;0.5
+Common_Star;1954;1643;63;62;0.5;0.5
+Common_SynthesisFrame;502;1318;161;211;0.5;0.5
+Common_SynthesisFrameMask;502;1109;157;207;0.5;0.5
+Common_TabBack;1385;1177;132;88;0.5;0.5
+Common_TabBg;1020;1267;492;238;0.5;0.5
+Common_TextLogo;670;1420;300;302;0.5;0.5
+Common_TextPower;1950;1425;44;44;0.5;0.5
+Common_logo;2;1201;498;496;0.5;0.5
+Common_rangeIcon;972;1669;53;53;0.5;0.5
+Test_Icon;972;1635;50;32;0.5;0.5
+bg_commontip;972;1440;44;45;0.5;0.5
+kof_ui_common_icondi1_01;464;929;178;178;0.5;0.5

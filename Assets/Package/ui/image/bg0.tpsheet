@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: bg0.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:7404905d40427ad5b3ce20bf4251206a:1f86e9a66797304aa2a626c3ce984430:ead87313565217cb7c40b62e0e9e8ecf$
+#
+
+Common_BigBg;2;676;512;288;0.5;0.5
+Common_LobbyBigBg;2;966;1920;1080;0.5;0.5

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3824933694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3b7553e4cd77851b9a6445d42d7f537
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5071d9f6a28e394e39317a17f9379da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/ui/uiprefab/ui_panel_battle.prefab
+Dependencies: []

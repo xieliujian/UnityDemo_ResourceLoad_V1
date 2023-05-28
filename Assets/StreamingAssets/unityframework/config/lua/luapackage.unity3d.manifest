@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2258555909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8769506c4ca00553b87746e610f573f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cdec698728c5d73eac34c63526b48134
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: f3bef7cd16d151548814be1e04270f9c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: gtm.LuaScriptableObject/LuaEntry
+Assets:
+- Assets/Package/config/lua/luapackage.asset
+Dependencies: []

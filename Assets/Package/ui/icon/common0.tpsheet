@@ -1,0 +1,44 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: common0.png (512 x 1024)
+# $TexturePacker:SmartUpdate:243383dff244fbbbf60f78dcc69bfaea:8d8551ff6889288b9f3f2a91fe142668:3383d4e45ed3f906345dcfb3b2db824a$
+#
+
+Common_frame_02;418;691;14;80;0.5;0.5
+Common_frame_03;489;926;14;96;0.5;0.5
+Common_frame_04;422;773;14;96;0.5;0.5
+Common_frame_05;194;674;14;96;0.5;0.5
+Common_frame_06;194;576;14;96;0.5;0.5
+Common_frame_07;438;754;14;96;0.5;0.5
+Common_frame_08;454;840;10;10;0.5;0.5
+Common_frame_09;2;674;190;96;0.5;0.5
+Common_frame_1;466;840;10;10;0.5;0.5
+Common_frame_10;2;433;177;96;0.5;0.5
+Common_frame_11;181;417;177;96;0.5;0.5
+Common_frame_12;2;335;177;96;0.5;0.5
+Common_frame_13;181;319;177;96;0.5;0.5
+Common_frame_14;2;237;177;96;0.5;0.5
+Common_frame_15;2;576;190;96;0.5;0.5
+Common_frame_16;210;560;190;96;0.5;0.5
+Common_frame_17;214;784;206;112;0.5;0.5
+Common_frame_18;2;139;177;96;0.5;0.5
+Common_icon_1;2;898;227;124;0.5;0.5
+Common_icon_10;451;884;32;32;0.5;0.5
+Common_icon_2;214;658;202;124;0.5;0.5
+Common_icon_3;2;772;210;124;0.5;0.5
+Common_icon_4;231;898;218;124;0.5;0.5
+Common_icon_5;2;772;210;124;0.5;0.5
+Common_icon_6;480;836;28;34;0.5;0.5
+Common_icon_7;451;960;34;40;0.5;0.5
+Common_icon_8;451;918;34;40;0.5;0.5
+Common_icon_9;487;901;22;23;0.5;0.5
+common_button_01;2;531;180;43;0.5;0.5
+common_button_02;184;515;180;43;0.5;0.5
+common_icon_42;451;1002;36;20;0.5;0.5
+common_icon_43;485;872;24;27;0.5;0.5
+common_icon_44;422;871;24;25;0.5;0.5
+common_icon_45;448;852;30;30;0.5;0.5

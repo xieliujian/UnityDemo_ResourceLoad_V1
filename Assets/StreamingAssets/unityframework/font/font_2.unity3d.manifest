@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3081114451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ec76b2bb1f5103c36a95aadccf15342
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 818998f6ad50b01be7500ae860b195e5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/font/font_2.ttf
+Dependencies: []

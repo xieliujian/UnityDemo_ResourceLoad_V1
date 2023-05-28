@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3400326022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9646a89a519dad12a95d9ff0c7b4991d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/audio/sound/ui/xiangqian.ogg
+Dependencies: []

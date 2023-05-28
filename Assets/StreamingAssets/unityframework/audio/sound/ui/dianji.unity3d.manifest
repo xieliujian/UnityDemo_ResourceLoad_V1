@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2871010785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6fe44c3c01bc87507b8e17c5dd0cd07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/audio/sound/ui/dianji.ogg
+Dependencies: []

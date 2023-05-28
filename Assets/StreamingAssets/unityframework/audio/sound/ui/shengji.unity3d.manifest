@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1408280882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da3c6a992f29b9a13bd11d9138f6f9b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/audio/sound/ui/shengji.ogg
+Dependencies: []

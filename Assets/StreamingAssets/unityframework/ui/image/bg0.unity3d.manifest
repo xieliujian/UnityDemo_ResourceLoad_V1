@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2397108591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cff72fae1aac4dca1fee402944b82072
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/ui/image/bg0.png
+Dependencies: []

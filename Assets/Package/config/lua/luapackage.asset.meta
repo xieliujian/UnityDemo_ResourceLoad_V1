@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 951e566fcd2ce324ebd8d6cecb2267f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: config/lua/luapackage
+  assetBundleVariant: unity3d

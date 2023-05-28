@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3932211002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e759081ac70d3c6fb120a24d2afd46c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/audio/sound/ui/fanye.ogg
+Dependencies: []

@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 4185674497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdf46e723b2682f9445a6b375338b648
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90169bd57589304898dd800c0f8d93b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48365e793292afd47b2d7fad15b37265, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e601ac5582359684bbe69fff27dd9bfc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Package/ui/uiprefab/ui_panel_createname.prefab
+Dependencies:
+- D:/Xieliujian/UnityDemo_ResourceLoad_V1/Assets/StreamingAssets/unityframework/font/droidsansfallback.unity3d
+- D:/Xieliujian/UnityDemo_ResourceLoad_V1/Assets/StreamingAssets/unityframework/ui/image/bg0.unity3d
+- D:/Xieliujian/UnityDemo_ResourceLoad_V1/Assets/StreamingAssets/unityframework/ui/image/common0.unity3d

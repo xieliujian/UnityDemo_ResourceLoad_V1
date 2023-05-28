@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: job0.png (512 x 1024)
+# $TexturePacker:SmartUpdate:db8306fdaa252f70ce72ba3d0324bf8a:f3124fd6879d287792a769997693bc80:baabc2a43c6503670cc56eca55ca7728$
+#
+
+Icon_Job_01;361;940;106;82;0.5;0.5
+Icon_Job_01_02;2;868;357;154;0.5;0.5
+Icon_Job_02;361;770;100;82;0.5;0.5
+Icon_Job_02_02;2;712;357;154;0.5;0.5
+Icon_Job_03;361;854;101;84;0.5;0.5
+Icon_Job_03_02;2;556;357;154;0.5;0.5
+Icon_Job_04;361;686;90;82;0.5;0.5
+Icon_Job_05_02;2;400;357;154;0.5;0.5

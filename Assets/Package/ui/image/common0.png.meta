@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 05ada4b83194dd948883cb4bfb988f4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 357526015213076234
+    second: CommonHP
+  - first:
+      213: 340195595286352941
+    second: Common_AvatarBg
+  - first:
+      213: -6782363887214723053
+    second: Common_AvatarBgNothin
+  - first:
+      213: 9189871412784207920
+    second: Common_BLOCK
+  - first:
+      213: 2727137574533462370
+    second: Common_BagButton
+  - first:
+      213: 8127126305565838320
+    second: Common_BagButtonSelect
+  - first:
+      213: -7743728661640608173
+    second: Common_BigLogo
+  - first:
+      213: 8752937994644576752
+    second: Common_ButtonBlue
+  - first:
+      213: -8226350305477620338
+    second: Common_ButtonRed
+  - first:
+      213: 3598039482734894302
+    second: Common_CRITICAL
+  - first:
+      213: -2203824389665226075
+    second: Common_Coin
+  - first:
+      213: 7601286073650705149
+    second: Common_Diamond
+  - first:
+      213: -3880511838734340190
+    second: Common_GeneralPopup
+  - first:
+      213: 7473338301818117879
+    second: Common_GeneralPopupLight
+  - first:
+      213: -6187768841340877918
+    second: Common_GeneralPopupTitle 1
+  - first:
+      213: 774468054705571369
+    second: Common_GeneralPopupTitle
+  - first:
+      213: 8297786605503792460
+    second: Common_GeneralTips
+  - first:
+      213: -2942653996517990056
+    second: Common_GrayButton
+  - first:
+      213: 4189741744469583664
+    second: Common_IconAdd
+  - first:
+      213: -590911094841360159
+    second: Common_IconIntelligence
+  - first:
+      213: 4868726267166498570
+    second: Common_IconLife
+  - first:
+      213: -2083864354195276586
+    second: Common_IconPower
+  - first:
+      213: 6366149618885777325
+    second: Common_IconSkill
+  - first:
+      213: 303459015727540402
+    second: Common_IconSpeed
+  - first:
+      213: -366424707066600321
+    second: Common_ItemFrame00(1)
+  - first:
+      213: -1353579950636203345
+    second: Common_ItemFrame00
+  - first:
+      213: -2654522634256398344
+    second: Common_ItemFrameMask
+  - first:
+      213: -3055851228276398925
+    second: Common_LevelDetailButton
+  - first:
+      213: 5160359745760343835
+    second: Common_Lock
+  - first:
+      213: -7562289548021622577
+    second: Common_LocomotivityIcon
+  - first:
+      213: 8021902825706548076
+    second: Common_LvBg
+  - first:
+      213: 1138238305193414732
+    second: Common_MISS
+  - first:
+      213: 5358595890338736345
+    second: Common_N
+  - first:
+      213: 7604040330197918670
+    second: Common_NFrame
+  - first:
+      213: -7397420694110539731
+    second: Common_NotClickable
+  - first:
+      213: 9046090530009915423
+    second: Common_PhysicalStrength
+  - first:
+      213: -1018755488945607558
+    second: Common_PhysicalStrengthIcon
+  - first:
+      213: 4737611788178622983
+    second: Common_PointIcon
+  - first:
+      213: 8643011774117607203
+    second: Common_R
+  - first:
+      213: -8575941065710401971
+    second: Common_RFrame
+  - first:
+      213: -5048947695839289938
+    second: Common_ResourcesBg
+  - first:
+      213: 3471112953319965626
+    second: Common_SR
+  - first:
+      213: -3243540907889949552
+    second: Common_SSR
+  - first:
+      213: 8401575475862176252
+    second: Common_SeclectFrame
+  - first:
+      213: -3545652945151928299
+    second: Common_SelectItemFrame
+  - first:
+      213: -8965757350465613703
+    second: Common_SliderSynthesis
+  - first:
+      213: 912492894961132356
+    second: Common_SliderSynthesisFrame
+  - first:
+      213: 4799784085765046812
+    second: Common_SrFrame
+  - first:
+      213: 8380191603737871645
+    second: Common_SsrFrame
+  - first:
+      213: -5093335157337724919
+    second: Common_Star
+  - first:
+      213: 8624460200917456460
+    second: Common_SynthesisFrame
+  - first:
+      213: -2133681066753515128
+    second: Common_SynthesisFrameMask
+  - first:
+      213: 8093978011279980702
+    second: Common_TabBack
+  - first:
+      213: -805653003934350415
+    second: Common_TabBg
+  - first:
+      213: 8215292438065613091
+    second: Common_TextLogo
+  - first:
+      213: 998282527773951270
+    second: Common_TextPower
+  - first:
+      213: -9122074830681206142
+    second: Common_logo
+  - first:
+      213: -9034151236905034633
+    second: Common_rangeIcon
+  - first:
+      213: 1571939999032454603
+    second: Test_Icon
+  - first:
+      213: 7063302883123734821
+    second: bg_commontip
+  - first:
+      213: -1073841115508381924
+    second: kof_ui_common_icondi1_01
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CommonHP
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 2042
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f7cbe340036f400800000000000000
+      internalID: 357526015213076234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_AvatarBg
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1744
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24123b671e98b400800000000000000
+      internalID: 340195595286352941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_AvatarBgNothin
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1176
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100125aaf330e1a0800000000000000
+      internalID: -6782363887214723053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_BLOCK
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1028
+        width: 109
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03815822c5bf88f70800000000000000
+      internalID: 9189871412784207920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_BagButton
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1856
+        width: 354
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ffafcc2db8d520800000000000000
+      internalID: 2727137574533462370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_BagButtonSelect
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1724
+        width: 354
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0cf7c05a59c070800000000000000
+      internalID: 8127126305565838320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_BigLogo
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1521
+        width: 916
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35686ed6fcfb88490800000000000000
+      internalID: -7743728661640608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ButtonBlue
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 935
+        width: 214
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f95fc72bbea87970800000000000000
+      internalID: 8752937994644576752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ButtonRed
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 859
+        width: 214
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d84147bf126dd80800000000000000
+      internalID: -8226350305477620338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_CRITICAL
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1157
+        width: 138
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc5e38a8ddcee130800000000000000
+      internalID: 3598039482734894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_Coin
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1971
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a289aad4617a61e0800000000000000
+      internalID: -2203824389665226075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1779
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f21029613d7960800000000000000
+      internalID: 7601286073650705149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GeneralPopup
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1185
+        width: 428
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afaa81ea07a52ac0800000000000000
+      internalID: -3880511838734340190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GeneralPopupLight
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1507
+        width: 498
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe903e0791a6b760800000000000000
+      internalID: 7473338301818117879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GeneralPopupTitle 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1146
+        width: 417
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a385a3e501a02aa0800000000000000
+      internalID: -6187768841340877918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GeneralPopupTitle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1988
+        width: 1032
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260d9aa7967fba00800000000000000
+      internalID: 774468054705571369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GeneralTips
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1699
+        width: 666
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454c0344f8a72370800000000000000
+      internalID: 8297786605503792460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_GrayButton
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 847
+        width: 214
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85169a0f7c79927d0800000000000000
+      internalID: -2942653996517990056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconAdd
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1707
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372cbb1be3f42a30800000000000000
+      internalID: 4189741744469583664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconIntelligence
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1535
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c4227d79acc7f0800000000000000
+      internalID: -590911094841360159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconLife
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1487
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f921f8eb0319340800000000000000
+      internalID: 4868726267166498570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconPower
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1394
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc77102960a413e0800000000000000
+      internalID: -2083864354195276586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconSkill
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1471
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7dcac595b195850800000000000000
+      internalID: 6366149618885777325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_IconSpeed
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1468
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b86454fd5a163400800000000000000
+      internalID: 303459015727540402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ItemFrame00(1)
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1531
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f746e5a9ba23aeaf0800000000000000
+      internalID: -366424707066600321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ItemFrame00
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1064
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20d3bd43e173de0800000000000000
+      internalID: -1353579950636203345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ItemFrameMask
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1761
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c9e87abd392bd0800000000000000
+      internalID: -2654522634256398344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_LevelDetailButton
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 923
+        width: 214
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4e42c9f7f6795d0800000000000000
+      internalID: -3055851228276398925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_Lock
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1583
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17354719d74d9740800000000000000
+      internalID: 5160359745760343835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_LocomotivityIcon
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1517
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8958909b95d0790800000000000000
+      internalID: -7562289548021622577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_LvBg
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1102
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be0fc3e16835f60800000000000000
+      internalID: 8021902825706548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_MISS
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1860
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40dbca35b5dbcf00800000000000000
+      internalID: 1138238305193414732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_N
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1205
+        width: 229
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8228a329e8d5a40800000000000000
+      internalID: 5358595890338736345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_NFrame
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1062
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e033746af68960800000000000000
+      internalID: 7604040330197918670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_NotClickable
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1191
+        width: 214
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20fa696215175990800000000000000
+      internalID: -7397420694110539731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_PhysicalStrength
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1340
+        width: 248
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f102447a86b2a8d70800000000000000
+      internalID: 9046090530009915423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_PhysicalStrengthIcon
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1572
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cea68c747acd1f0800000000000000
+      internalID: -1018755488945607558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_PointIcon
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1611
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a071602d06fb140800000000000000
+      internalID: 4737611788178622983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_R
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1070
+        width: 229
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277cc97a6522f770800000000000000
+      internalID: 8643011774117607203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_RFrame
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1043
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4685abb9032cf880800000000000000
+      internalID: -8575941065710401971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_ResourcesBg
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1514
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd8f332d88ee9b0800000000000000
+      internalID: -5048947695839289938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1011
+        width: 229
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c4ed17dedb2030800000000000000
+      internalID: 3471112953319965626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SSR
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1011
+        width: 229
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09485c2bab0acf2d0800000000000000
+      internalID: -3243540907889949552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SeclectFrame
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1290
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10660c164689470800000000000000
+      internalID: 8401575475862176252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SelectItemFrame
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1894
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518d66b9e6f4bcec0800000000000000
+      internalID: -3545652945151928299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SliderSynthesis
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1208
+        width: 154
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970562f313b339380800000000000000
+      internalID: -8965757350465613703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SliderSynthesisFrame
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1236
+        width: 157
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e9301473d9ac00800000000000000
+      internalID: 912492894961132356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SrFrame
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 956
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12499612324c9240800000000000000
+      internalID: 4799784085765046812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SsrFrame
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 956
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c18a0ddb6c4470800000000000000
+      internalID: 8380191603737871645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_Star
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1643
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90860e8f8a6d059b0800000000000000
+      internalID: -5093335157337724919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SynthesisFrame
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1318
+        width: 161
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46dd2fbbdc30b770800000000000000
+      internalID: 8624460200917456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_SynthesisFrameMask
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1109
+        width: 157
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8812e20ef54a362e0800000000000000
+      internalID: -2133681066753515128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_TabBack
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1177
+        width: 132
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e987a261e16935070800000000000000
+      internalID: 8093978011279980702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_TabBg
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1267
+        width: 492
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b344488cdeb1d4f0800000000000000
+      internalID: -805653003934350415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_TextLogo
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1420
+        width: 300
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298ad822f4920270800000000000000
+      internalID: 8215292438065613091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_TextPower
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1425
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625027d7bac9add00800000000000000
+      internalID: 998282527773951270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_logo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1201
+        width: 498
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28217b6b541e76180800000000000000
+      internalID: -9122074830681206142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Common_rangeIcon
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1669
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c9e15a05f30a280800000000000000
+      internalID: -9034151236905034633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Test_Icon
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1635
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdae82c917a0d510800000000000000
+      internalID: 1571939999032454603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_commontip
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1440
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52925999c84e50260800000000000000
+      internalID: 7063302883123734821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kof_ui_common_icondi1_01
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 929
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e9e4e133f811f0800000000000000
+      internalID: -1073841115508381924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ui/image/common0
+  assetBundleVariant: unity3d

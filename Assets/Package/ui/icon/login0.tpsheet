@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: login0.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:ffdb72f881591faabb3d1de43c5bcd81:95c2fb89bd9cbfc6ed24572f58280eea:bb04981896443edfaade9b052a040e71$
+#
+
+login_frame_01;754;705;235;317;0.5;0.5
+login_frame_02;1021;976;1;6;0.5;0.5
+login_frame_03;2;230;152;169;0.5;0.5
+login_frame_04;78;108;221;120;0.5;0.5
+login_frame_05;991;944;20;2;0.5;0.5
+login_frame_06;2;401;226;302;0.5;0.5
+login_frame_07;2;71;74;157;0.5;0.5
+login_frame_08;2;723;750;299;0.5;0.5
+login_frame_09;991;984;31;38;0.5;0.5
+login_frame_10;126;4;46;44;0.5;0.5
+login_frame_11;991;948;28;34;0.5;0.5
+login_frame_12;2;7;64;62;0.5;0.5
+login_icon_01;68;13;56;56;0.5;0.5
+login_icon_02;126;50;56;56;0.5;0.5
+login_icon_03;184;50;56;56;0.5;0.5
+login_icon_04;242;50;56;56;0.5;0.5
+login_icon_05;300;50;56;56;0.5;0.5
+login_icon_06;156;343;56;56;0.5;0.5
+login_icon_07;156;285;56;56;0.5;0.5
+login_icon_08;214;343;56;56;0.5;0.5
+login_icon_09;214;285;56;56;0.5;0.5
+login_icon_10;230;647;56;56;0.5;0.5
+login_icon_11;230;589;56;56;0.5;0.5
+login_icon_12;230;531;56;56;0.5;0.5
+login_icon_13;230;473;56;56;0.5;0.5
+login_icon_14;230;415;56;56;0.5;0.5

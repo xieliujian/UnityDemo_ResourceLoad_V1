@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2617461192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcfea8e2b92397a8e13109bfdf2b81ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/audio/sound/ui/qianghua1.ogg
+Dependencies: []

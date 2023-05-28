@@ -1,0 +1,183 @@
+ManifestFileVersion: 0
+CRC: 385402025
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/uiprefab/ui_item_selserver.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: prefabs/character/lady.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: audio/sound/ui/pubu.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: audio/music/jiayuan.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: ui/uiprefab/ui_panel_test.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: ui/uiprefab/ui_panel_createname.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: ui/image/bg0.unity3d
+        Dependency_2: font/droidsansfallback.unity3d
+    Info_6:
+      Name: scene/lobby.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: audio/sound/ui/shengji.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: ui/unpack_prefab/ui_panel_root.unity3d
+      Dependencies:
+        Dependency_0: ui/unpack_prefab/ui_panel_launch.unity3d
+    Info_9:
+      Name: ui/uiprefab/ui_panel_lobby.unity3d
+      Dependencies:
+        Dependency_0: ui/image/bg0.unity3d
+    Info_10:
+      Name: ui/image/common0.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: ui/icon/common0.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: font/font_1.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: audio/sound/ui/fanye.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: ui/uiprefab/ui_panel_login.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: ui/image/bg0.unity3d
+        Dependency_2: font/droidsansfallback.unity3d
+    Info_15:
+      Name: ui/uiprefab/ui_item_createrole.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: audio/sound/ui/jinbi.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: audio/music/denglu.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: ui/uiprefab/ui_panel_selrole.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: ui/uiprefab/ui_panel_battle.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: ui/icon/pet0.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: audio/sound/ui/qianghua1.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: audio/music/jinshansi.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: ui/uiprefab/ui_panel_createrole.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: ui/image/bg0.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: audio/sound/ui/xiangqian.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: audio/sound/ui/chongwu.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: ui/uiprefab/ui_panel_lobby_battle.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: font/droidsansfallback.unity3d
+    Info_28:
+      Name: font/font_2.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: config/lua/luamsg.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: audio/sound/ui/gongneng.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: ui/uiprefab/ui_panel_register.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: ui/image/bg0.unity3d
+        Dependency_2: font/droidsansfallback.unity3d
+    Info_32:
+      Name: ui/uiprefab/ui_item_selrole.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: ui/icon/login0.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: prefabs/character/girl2.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: audio/sound/ui/liushui.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: audio/music/fenghuangshan.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: ui/uiprefab/ui_panel_systemtip.unity3d
+      Dependencies:
+        Dependency_0: font/font_1.unity3d
+    Info_38:
+      Name: ui/uiprefab/ui_panel_battle_lobby.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: font/droidsansfallback.unity3d
+    Info_39:
+      Name: scene/battle.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: audio/sound/ui/qianghua2.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: ui/unpack_prefab/ui_panel_launch.unity3d
+      Dependencies:
+        Dependency_0: ui/image/bg0.unity3d
+        Dependency_1: ui/icon/login0.unity3d
+        Dependency_2: font/droidsansfallback.unity3d
+    Info_42:
+      Name: ui/uiprefab/ui_panel_loading.unity3d
+      Dependencies:
+        Dependency_0: ui/icon/common0.unity3d
+        Dependency_1: ui/icon/login0.unity3d
+    Info_43:
+      Name: font/droidsansfallback.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: audio/sound/ui/dianji.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: ui/uiprefab/ui_panel_lobby_playerhead.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: font/droidsansfallback.unity3d
+    Info_46:
+      Name: ui/icon/job0.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: config/lua/luapackage.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: audio/sound/ui/huoban.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: audio/music/bangpai.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: ui/uiprefab/ui_panel_selectserver.unity3d
+      Dependencies:
+        Dependency_0: ui/image/common0.unity3d
+        Dependency_1: ui/image/bg0.unity3d
+        Dependency_2: font/droidsansfallback.unity3d

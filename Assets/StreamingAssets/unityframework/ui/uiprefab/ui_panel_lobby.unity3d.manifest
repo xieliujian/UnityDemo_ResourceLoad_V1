@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3283476318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eb464eb1e3c59546dcf66c7705152e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda481f9c8e84683649c3a3d73eb91cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Package/ui/uiprefab/ui_panel_lobby.prefab
+Dependencies:
+- D:/Xieliujian/UnityDemo_ResourceLoad_V1/Assets/StreamingAssets/unityframework/ui/image/bg0.unity3d
