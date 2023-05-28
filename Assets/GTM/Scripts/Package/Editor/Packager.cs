@@ -67,6 +67,11 @@ namespace gtm.Editor
 
         const string Bytes_Suffix = ".bytes";
 
+        /// <summary>
+        /// .
+        /// </summary>
+        static List<AssetBundleBuild> m_BundleBuildList = new List<AssetBundleBuild>();
+
         [MenuItem("unityframework/Build iPhone Resource", false, 100)]
         public static void BuildiPhoneResource()
         {
@@ -122,11 +127,7 @@ namespace gtm.Editor
         /// </summary>
         private static void BuildAssetResource(BuildTarget target, string resPath)
         {
-            // 1.
-            //if (Directory.Exists(AppPlatform.dataPath))
-            //{
-            //    Directory.Delete(AppPlatform.dataPath, true);
-            //}
+            m_BundleBuildList.Clear();
 
             if (Directory.Exists(resPath))
             {
@@ -140,42 +141,52 @@ namespace gtm.Editor
             GenerateLuaScriptableObject();
 
             // 2.2
-            SetAllAssetBundleName();
+            //SetAllAssetBundleName();
+            AddAllAssetBundle(Application.dataPath + PackagePathPrefix);
 
             // 3.
-            BuildPipeline.BuildAssetBundles(resPath, BuildAssetBundleOptions.None, target);
+            BuildPipeline.BuildAssetBundles(resPath, m_BundleBuildList.ToArray(), BuildAssetBundleOptions.None, target);
 
             // 4. 清理assetbundle名字
             AssetDatabase.Refresh();
-            ClearAssetBundlesName();
+            //ClearAssetBundlesName();
 
             // 5.
             //BuildFileIndex();
             AssetDatabase.Refresh();
         }
 
-        private static void SetAllAssetBundleName()
-        {
-            SetAssetBundleName(Application.dataPath + PackagePathPrefix);
-        }
+        //private static void SetAllAssetBundleName()
+        //{
+        //    AddAllAssetBundle(Application.dataPath + PackagePathPrefix);
+        //}
 
-        /// <summary>
-        /// 清除之前设置过的AssetBundleName，避免产生不必要的资源也打包
-        /// 工程中只要设置了AssetBundleName的，都会进行打包
-        /// </summary>
-        static void ClearAssetBundlesName()
-        {
-            int length = AssetDatabase.GetAllAssetBundleNames().Length;
-            string[] oldAssetBundleNames = new string[length];
-            for (int i = 0; i < length; i++)
-            {
-                oldAssetBundleNames[i] = AssetDatabase.GetAllAssetBundleNames()[i];
-            }
+        ///// <summary>
+        ///// 清除之前设置过的AssetBundleName，避免产生不必要的资源也打包
+        ///// 工程中只要设置了AssetBundleName的，都会进行打包
+        ///// </summary>
+        //static void ClearAssetBundlesName()
+        //{
+        //    int length = AssetDatabase.GetAllAssetBundleNames().Length;
+        //    string[] oldAssetBundleNames = new string[length];
+        //    for (int i = 0; i < length; i++)
+        //    {
+        //        oldAssetBundleNames[i] = AssetDatabase.GetAllAssetBundleNames()[i];
+        //    }
 
-            for (int j = 0; j < oldAssetBundleNames.Length; j++)
-            {
-                AssetDatabase.RemoveAssetBundleName(oldAssetBundleNames[j], true);
-            }
+        //    for (int j = 0; j < oldAssetBundleNames.Length; j++)
+        //    {
+        //        AssetDatabase.RemoveAssetBundleName(oldAssetBundleNames[j], true);
+        //    }
+        //}
+
+        static void AddAssetBundleBuild(string assetBundleName, string[] assetNames, string assetBundleVariant = "unity3d")
+        {
+            AssetBundleBuild build = new AssetBundleBuild();
+            build.assetBundleName = assetBundleName;
+            build.assetBundleVariant = assetBundleVariant;
+            build.assetNames = assetNames;
+            m_BundleBuildList.Add(build);
         }
 
         private static void PackageFont(string rootpath)
@@ -189,12 +200,15 @@ namespace gtm.Editor
                     string source = pngFile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".ttf", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".ttf", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".ttf", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
@@ -212,12 +226,15 @@ namespace gtm.Editor
                     string source = pngFile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".mp3", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".mp3", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".mp3", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
@@ -230,12 +247,15 @@ namespace gtm.Editor
                     string source = pngFile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".ogg", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".ogg", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".ogg", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
@@ -253,12 +273,15 @@ namespace gtm.Editor
                     string source = pngFile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".png", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".png", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".png", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
@@ -276,12 +299,15 @@ namespace gtm.Editor
                     string source = pngFile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".prefab", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".prefab", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".prefab", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
@@ -360,12 +386,15 @@ namespace gtm.Editor
                 string source = scenefile.FullName.Replace("\\", "/");
                 string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                assetBundlePath = assetBundlePath.Replace(Lua_Suffix, "");
+                AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                assetpath = assetpath.Replace(Lua_Suffix, "");
-                assetImporter.assetBundleName = assetpath;
-                assetImporter.assetBundleVariant = "unity3d";
+                //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                //assetpath = assetpath.Replace(Lua_Suffix, "");
+                //assetImporter.assetBundleName = assetpath;
+                //assetImporter.assetBundleVariant = "unity3d";
             }
 
             // luamsg
@@ -374,12 +403,15 @@ namespace gtm.Editor
                 string source = scenefile.FullName.Replace("\\", "/");
                 string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                assetBundlePath = assetBundlePath.Replace(Bytes_Suffix, "");
+                AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                assetpath = assetpath.Replace(Bytes_Suffix, "");
-                assetImporter.assetBundleName = assetpath;
-                assetImporter.assetBundleVariant = "unity3d";
+                //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                //assetpath = assetpath.Replace(Bytes_Suffix, "");
+                //assetImporter.assetBundleName = assetpath;
+                //assetImporter.assetBundleVariant = "unity3d";
             }
 
             AssetDatabase.Refresh();
@@ -396,19 +428,22 @@ namespace gtm.Editor
                     string source = scenefile.FullName.Replace("\\", "/");
                     string assetpath = "Assets" + source.Substring(Application.dataPath.Length);
 
-                    AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    var assetBundlePath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    assetBundlePath = assetBundlePath.Replace(".unity", "");
+                    AddAssetBundleBuild(assetBundlePath, new string[] { assetpath });
 
-                    assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
-                    assetpath = assetpath.Replace(".unity", "");
-                    assetImporter.assetBundleName = assetpath;
-                    assetImporter.assetBundleVariant = "unity3d";
+                    //AssetImporter assetImporter = AssetImporter.GetAtPath(assetpath);
+                    //assetpath = assetpath.Replace(EditorResourceLoad.EDITOR_PATH_PREFIX, "");
+                    //assetpath = assetpath.Replace(".unity", "");
+                    //assetImporter.assetBundleName = assetpath;
+                    //assetImporter.assetBundleVariant = "unity3d";
                 }
             }
 
             AssetDatabase.Refresh();
         }
 
-        private static void SetAssetBundleName(string rootpath)
+        private static void AddAllAssetBundle(string rootpath)
         {
             PackageFont(rootpath);
             PackageTexture(rootpath);

@@ -12,7 +12,7 @@ namespace gtm
         /// <summary>
         /// bundle dict
         /// </summary>
-        Dictionary<string, Bundle> m_BundleDict = new Dictionary<string, Bundle>(1024);
+        Dictionary<string, Bundle> m_BundleDict = new Dictionary<string, Bundle>(ConstDefine.LIST_CONST_1024);
 
         /// <summary>
         /// manifest

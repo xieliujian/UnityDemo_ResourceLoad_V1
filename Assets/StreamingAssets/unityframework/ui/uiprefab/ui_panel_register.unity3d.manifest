@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 48365e793292afd47b2d7fad15b37265, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e601ac5582359684bbe69fff27dd9bfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48365e793292afd47b2d7fad15b37265, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
